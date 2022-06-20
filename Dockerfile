@@ -1,6 +1,3 @@
-# Docker Multistage construction 
-
-### DEV Environmental Science  ###
 FROM node:14.15 AS development
 
 #  Navigate to the container working directory 
